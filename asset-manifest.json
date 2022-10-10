@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kaunis-suomi/static/css/main.e0e394ef.css",
+    "main.js": "/kaunis-suomi/static/js/main.261afcfe.js",
+    "static/js/787.6127e289.chunk.js": "/kaunis-suomi/static/js/787.6127e289.chunk.js",
+    "index.html": "/kaunis-suomi/index.html",
+    "static/media/Marker.svg": "/kaunis-suomi/static/media/Marker.be8fb352b82a95004ecc28172487beb8.svg",
+    "main.e0e394ef.css.map": "/kaunis-suomi/static/css/main.e0e394ef.css.map",
+    "main.261afcfe.js.map": "/kaunis-suomi/static/js/main.261afcfe.js.map",
+    "787.6127e289.chunk.js.map": "/kaunis-suomi/static/js/787.6127e289.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0e394ef.css",
+    "static/js/main.261afcfe.js"
+  ]
+}
